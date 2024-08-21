@@ -10,10 +10,12 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Node.js</li>
-        <li>Express</li>
-        <li>PostgreSQL</li>
-        <li>Sequelize</li>
-        <li>JavaScript</li>
+        <li>Wordpress</li>
+        <li>SQL</li>
+        <li>Microsoft Office Suite (Excel, PowerPoint, Word, Power BI)
+        </li>
+        <li>statistical analysis and data visualization tools (Eviews, Python,
+          Tableau)</li>
         <li>React</li>
       </ul>
     ),
