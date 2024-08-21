@@ -57,12 +57,13 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a full stack web developer with a passion for creating
-            interactive and responsive web applications. I have experience
-            working with JavaScript, React, Redux, Node.js, Express, PostgreSQL,
-            Sequelize, HTML, CSS, and Git. I am a quick learner and I am always
-            looking to expand my knowledge and skill set. I am a team player and
-            I am excited to work with others to create amazing applications.
+          I'm an Economics graduate with a GPA of 3.20 (Very Good with Honors) and a passion for
+data-driven analysis. Experienced in managing payroll systems, developing educational
+programs on stock market dynamics. Proficient in statistical analysis and data visualization
+tools, seeking a data analysis entry position to leverage analytical skills for strategic
+decision-making. Adept at collaborating with industry experts and facilitating practical
+learning experiences.
+
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
